@@ -14,5 +14,5 @@
 2.npm install config-lite connect-flash connect-mongo --save
 3.npm install ejs express express-formidable express-session marked moment 
 4.npm install mongolass objectid-to-timestamp sha1 winston express-winston --save
-3.npm index
+3.node index
 ```
